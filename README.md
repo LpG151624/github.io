@@ -1,2 +1,1 @@
-# github.io
-my app-ads.txt file
+google.com, pub-8858825272400525, DIRECT, f08c47fec0942fa0
